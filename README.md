@@ -63,16 +63,20 @@ WEATHER_API_KEY – это переменная, содержащая ключ �
 
 
 Запуск бота // Launching a bot
+
 ![image](https://github.com/YuraGolinsky/TravelersAssistant/assets/134283897/766b9d86-d75d-4c35-a5ab-b8b48cb38962)
 
 Кнопки для вибору міста бот // Buttons for choosing the bot city
+
 ![image](https://github.com/YuraGolinsky/TravelersAssistant/assets/134283897/d54f6f42-0030-4f20-afe4-516c55f34451)
 
 Інформація про місто // Information about the city
+
 ![image](https://github.com/YuraGolinsky/TravelersAssistant/assets/134283897/d7b473c8-03b5-4e37-8649-9203318c20ac)
 
 
 Інформація про Бот // Information about Bot
+
 ![image](https://github.com/YuraGolinsky/TravelersAssistant/assets/134283897/c115e8ed-afad-40eb-af83-21307e903843)
 ![image](https://github.com/YuraGolinsky/TravelersAssistant/assets/134283897/94661ee7-f0f2-439b-8d35-b8e3837f76a3)
 
