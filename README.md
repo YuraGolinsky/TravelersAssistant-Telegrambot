@@ -3,7 +3,7 @@
 Инструкция
 
 Начало работы бота: когда вы впервые взаимодействуете с ботом, он приветствует вас и предлагает выбрать город для поездки. Это можно сделать, нажав на кнопки с названиями городов или кнопку "Помощник Путешественников ℹ️" для получения дополнительной информации о боте.
-Выбор города: после выбора города вы получите информацию об отелях, ресторанах, магазинах и интересных местах этого города. Бот также отправит вам географические координаты этого места и информацию о погоде в этом городе.
+Выбор города: после выбора города вы получите информацию об отелях, ресторанах, магазинах и интересных местах этого города. Бот также отправит вам географические координаты этого места и информацию о погоде в этом городе.
 Помощь: если у вас есть вопросы или вы нуждаетесь в помощи, вы можете воспользоваться командой /help или просто написать слово "help" в вашем сообщении. Бот пришлет вам инструкции по использованию его функций.
 Дополнительные команды: Кроме команды /help, вы можете воспользоваться командой /start, чтобы выбрать город снова. Бот также будет посылать вам сообщения о том, что он снова активен, вместе с кнопками для выбора города, когда вы впервые начинаете общение с ним.
 
@@ -89,7 +89,7 @@ Telegram bot link: https://t.me/TravelinUkraineAssistant_Bot
 
 Instruction
 Starting the bot: When you first interact with the bot, it greets you and prompts you to choose a city to travel to. This can be done by clicking on the buttons with the names of the cities or on the "Traveler's Assistant ℹ️" button for more information about the bot.
-Selecting a city: After selecting a city, you will receive information about hotels, restaurants, shops and interesting places in that city. The bot will also send you the geographic coordinates of that location and information about the weather in that city.
+Selecting a city: After selecting a city, you will receive information about hotels, restaurants, shops and interesting places in that city. The bot will also send you the geographic coordinates of that location and information about the weather in that city.
 Help: If you have a question or need help, you can use the /help command or simply write the word "help" in your message. The bot will send you instructions on how to use its features.
 Additional commands: In addition to the /help command, you can use the /start command to select the city again. The bot will also send you a message that it's active again, along with buttons to select a city, when you first start chatting with it.
 
