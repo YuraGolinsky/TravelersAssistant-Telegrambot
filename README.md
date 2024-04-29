@@ -1,4 +1,4 @@
-Ссылки на телеграмм бот: https://t.me/TravelinUkraineAssistant_Bot
+Ссылка на телеграмм бот: https://t.me/TravelinUkraineAssistant_Bot
 
 Инструкция
 
