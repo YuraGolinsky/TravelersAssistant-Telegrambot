@@ -2,8 +2,8 @@ import telebot
 import requests
 from telebot import types
 
-TOKEN = "7040036226:AAFXD57t9MinYzVkt1aNSolyUSMyTdQBZJ4"
-WEATHER_API_KEY = "4284c9e5caf7fc1317b4af603c11d0d1"
+TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
+
 
 
 bot = telebot.TeleBot(TOKEN)
